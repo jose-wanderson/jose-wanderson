@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o José Wanderson  
 
-<!--
-**jose-wanderson/jose-wanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em **Sistemas de Informação**  
+💻 Focado em desenvolvimento **Web Full Stack**  
+☕ Experiência em **Java** e **C#**  
+🎮 Já desenvolvi jogos com **Unity**  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- **Front-end:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5  
+- **Back-end:** PHP 8, Node.js  
+- **Frameworks:** Laravel 10, CodeIgniter 4  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git/GitHub, APIs REST, AJAX, Hospedagem  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos que você vai encontrar aqui
+- Aplicações web completas  
+- Sistemas em PHP/Laravel  
+- Estudos em Node.js e MySQL  
+- Jogos desenvolvidos na Unity  
